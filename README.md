@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Web3 and blockchain
 - 👯 I’m looking to collaborate on any React JS and Next JS projects
 - 🤔 I’m looking for help with DeFi development resources.
-- 💬 Ask me about React Js and frontend development
+- 💬 Ask me about React Js, Next Js and frontend development
 - 📫 How to reach me: [Twitter] (https://twitter.com/wangari__maina)
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I would die for a cat.
