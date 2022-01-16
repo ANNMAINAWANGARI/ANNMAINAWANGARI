@@ -1,8 +1,6 @@
-# Hi there, I'm Ann 👋
+# Hi there, I'm Ann 👩‍💻 👋
 
-### Software Developer
-
-<img  width ='50%' src='https://github-readme-stats.vercel.app/api?username=ANNMAINAWANGARI&show_icons=true&theme=highcontrast'/>
+### SOFTWARE DEVELOPER
 
 
 - 🔭 I’m currently working on a DeFi dApp
