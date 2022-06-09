@@ -3,7 +3,7 @@
 ### SOFTWARE DEVELOPER
 
 
-- 🔭 I’m currently working on a DeFi dApp
+- 🔭 I’m currently working on Data Structures and Algorithms.
 - 🌱 I’m currently learning Web3 and blockchain
 - 👯 I’m looking to collaborate on any React JS and Next JS projects
 - 🤔 I’m looking for help with DeFi development resources.
