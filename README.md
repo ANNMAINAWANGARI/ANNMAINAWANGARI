@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
-- 🌱 I’m currently learning Web3 and blockchain
-- 👯 I’m looking to collaborate on any React JS, Next JS, TypeScript and Node.js(microservices) projects.
+- 🌱 I’m currently learning Rust and blockchain
+- 👯 I’m looking to collaborate on any Blockchain, React JS, Next JS,Angular JS, TypeScript and Node.js(microservices) projects.
 - 🤔 I’m looking for help with DeFi development resources.
 - 💬 Ask me about MERN stack.
 - 📫 How to reach me: [Twitter] (https://twitter.com/wangari__maina)
