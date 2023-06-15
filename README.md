@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on any Blockchain(EVM), React JS, Next JS,Angular JS, TypeScript, SQL/NoSQL(MongoDB && Firebase) and Node.js(microservices) projects.
 - 💬 Ask me about MERNG stack.
-- 📫 How to reach me: [Linkedln] (https://www.linkedin.com/in/wangari-maina/)
+- 📫 How to reach me: [Email] (mainaann367@gmail.com)
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I would die for a cat.
 
